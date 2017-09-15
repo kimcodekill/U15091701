@@ -1,3 +1,4 @@
-Hej det här är min fil lol!
+Hej det hÃ¤r Ã¤r min fil lol!
 
 <------Edit below this line------>
+Hej jag heter Ruben och jag gillar att leka med kuber.
